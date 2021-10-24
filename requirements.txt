@@ -1,0 +1,15 @@
+# tensorflow_gpu==2.0.0
+cmake
+cloudpickle==0.6.1
+numpy==1.17.4
+atari-py
+gym==0.10.5
+baselines==0.1.5
+ipdb==0.12.3
+mpi4py==3.0.3
+Pillow==7.0.0
+PyOpenGL==3.1.5
+retro
+roboschool==1.0.49
+tensorflow==1.15.0
+opencv-python
